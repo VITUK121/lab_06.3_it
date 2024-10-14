@@ -1,5 +1,35 @@
 ﻿  UnitTest_06.3_it.cpp
-C:\Users\VITUK\source\repos\lab_06.3_it\lab_06.3_it\lab_06.3_it.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VITUK\source\repos\lab_06.3_it\lab_06.3_it\lab_06.3_it.cpp(58,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest_06.3_it.cpp')
+  
+C:\Users\VITUK\source\repos\lab_06.3_it\UnitTest_06.3_it\UnitTest_06.3_it.cpp(20,19): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+  (compiling source file '/UnitTest_06.3_it.cpp')
+  
+C:\Users\VITUK\source\repos\lab_06.3_it\UnitTest_06.3_it\UnitTest_06.3_it.cpp(20,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest_06.3_it.cpp')
+  
+C:\Users\VITUK\source\repos\lab_06.3_it\UnitTest_06.3_it\UnitTest_06.3_it.cpp(20,24): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+  (compiling source file '/UnitTest_06.3_it.cpp')
+  
+C:\Users\VITUK\source\repos\lab_06.3_it\UnitTest_06.3_it\UnitTest_06.3_it.cpp(20,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest_06.3_it.cpp')
+  
+C:\Users\VITUK\source\repos\lab_06.3_it\UnitTest_06.3_it\UnitTest_06.3_it.cpp(20,29): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+  (compiling source file '/UnitTest_06.3_it.cpp')
+  
+C:\Users\VITUK\source\repos\lab_06.3_it\UnitTest_06.3_it\UnitTest_06.3_it.cpp(20,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest_06.3_it.cpp')
+  
+C:\Users\VITUK\source\repos\lab_06.3_it\UnitTest_06.3_it\UnitTest_06.3_it.cpp(20,34): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+  (compiling source file '/UnitTest_06.3_it.cpp')
+  
+C:\Users\VITUK\source\repos\lab_06.3_it\UnitTest_06.3_it\UnitTest_06.3_it.cpp(20,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest_06.3_it.cpp')
+  
+C:\Users\VITUK\source\repos\lab_06.3_it\UnitTest_06.3_it\UnitTest_06.3_it.cpp(20,39): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+  (compiling source file '/UnitTest_06.3_it.cpp')
+  
+C:\Users\VITUK\source\repos\lab_06.3_it\UnitTest_06.3_it\UnitTest_06.3_it.cpp(20,39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   (compiling source file '/UnitTest_06.3_it.cpp')
   
   UnitTest_06.3_it.vcxproj -> C:\Users\VITUK\source\repos\lab_06.3_it\x64\Debug\UnitTest_06.3_it.dll

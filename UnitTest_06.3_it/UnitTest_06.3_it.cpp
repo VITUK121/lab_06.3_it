@@ -12,8 +12,13 @@ namespace UnitTest063it
 		
 		TEST_METHOD(TestMethod1)
 		{
-			int arr[] = { -2,4,1,-4,2 }, size = 5;
-			Assert::AreEqual(sum(arr,size), 1);
+			int arr1[] = { -2,4,1,-4,2 }, size1 = 5;
+			Assert::AreEqual(sum1(arr1, size1), 1);
+		}
+		TEST_METHOD(TestMethod2)
+		{
+			int arr2[] = { -5.5,9.33,1.25,-4.5,0.42 }, size2 = 5;
+			Assert::AreEqual(sum2(arr2, size2), 1);
 		}
 	};
 }
